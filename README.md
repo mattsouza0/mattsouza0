@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/mattsouza0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattsouza0&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattsouza0&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mattsouza0&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattsouza0&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -16,8 +16,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=77&color=000000">
   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=77&color=000000">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=77&color=000000">
-  
-  
+  <img align="right" alt="Gif" src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif">
 </div>
     
 ##

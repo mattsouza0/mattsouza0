@@ -3,15 +3,25 @@
 - 🔭 I’m currently working on ...
 - 🌱 Estudando Java
 
--->
-
 <div>
-  
-  
-<div/>
-  
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="mattsouza0" /> 
+  <a href="https://github.com/mattsouza0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattsouza0&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattsouza0&theme=blue-green"/>
+</div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mtt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mtt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mtt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mtt-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+  <img align="right" alt="Gif" src="">
+</div>
+  
+  <div style="display: inline_block"><br>
+    <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="mattsouza0" /> 
+  <div/>
+    
 ##
 
 <div> 

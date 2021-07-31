@@ -5,17 +5,20 @@
 
 <div>
   <a href="https://github.com/mattsouza0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattsouza0&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattsouza0&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattsouza0&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattsouza0&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mtt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mtt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mtt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mtt-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=77&color=ffffff">
+  <img align="center" alt="C/C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-line.svg?size=77&color=009adb">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=77&color=000000">
+  <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=77&color=000000">
+  <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=77&color=000000">
+  <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=77&color=000000">
   
   <img align="right" alt="Gif" src="">
+  
 </div>
   
   <div style="display: inline_block"><br>

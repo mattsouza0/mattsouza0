@@ -16,7 +16,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=77&color=000000">
   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=77&color=000000">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=77&color=000000">
-  <img align="right" alt="Gif" src="https://media.giphy.com/media/3y0oCOkdKKRi0/giphy.gif">
+  <img align="right" alt="Gif" src="https://media.giphy.com/media/3ov9k0BZQL358k458s/giphy.gif">
 </div>
     
 ##

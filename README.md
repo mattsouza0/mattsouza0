@@ -1,7 +1,8 @@
-###  Olá! Me chamo Mateus 👋
+###  Olá! Me chamo Mateus Souza 👋
 
-- 🔭 I’m currently working on ...
+- 👩‍🏫 Atualmente estou fazendo uma graduação em Engenharia de Computação
 - 🌱 Estudando Java
+- 🔭 I’m currently working on ...
 
 ##
 

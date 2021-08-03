@@ -2,7 +2,7 @@
 
 - 👩‍🏫 Atualmente estou fazendo uma graduação em Engenharia de Computação
 - 🌱 Estudando Java 
-- 🔭 Atualmente sou estagiario em TI no paço Municipal GO
+- 🔭 Atualmente sou estagiario em TI no Paço Municipal GO
 
 ##
 

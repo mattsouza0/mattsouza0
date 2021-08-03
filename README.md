@@ -1,8 +1,8 @@
 ###  Olá! Me chamo Mateus de Souza 👋
 
 - 👩‍🏫 Atualmente estou fazendo uma graduação em Engenharia de Computação
-- 🌱 Estudando Java
-- 🔭 I’m currently working on ...
+- 🌱 Estudando Java 
+- 🔭 Atualmente sou estagiario em TI no paço Municipal GO
 
 ##
 

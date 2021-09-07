@@ -1,6 +1,6 @@
 ###  Olá! Me chamo Mateus de Souza 👋
 
-- 👩‍🏫 Atualmente estou fazendo uma graduação em Engenharia de Computação
+- 👩‍🏫 #r#b#eda0000 Atualmente estou fazendo uma graduação em Engenharia de Computação
 - 🌱 Estudando Java 
 - 🔭 
 

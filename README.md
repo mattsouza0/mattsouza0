@@ -1,7 +1,6 @@
 ###  Olá! Me chamo Mateus de Souza 👋
 
 - 👩‍🏫 Estudante de Engenharia de Computação
-- 🌱 Aprendendo Java 
 - 🔭 
 - 🕹️
 - 💻

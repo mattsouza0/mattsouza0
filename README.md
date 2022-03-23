@@ -1,7 +1,7 @@
 ###  Olá! Me chamo Mateus de Souza Almeida 👋
 
-- 📚 Estudante de Engenharia de Computação 
-- 💻 Aprendendo um pouco sobre desenvolvimento web
+- 📚 Estou me Graduando em Engenharia de Computação 
+- 💻 Estudando sobre Desenvolvimento Web
 
 ##
 

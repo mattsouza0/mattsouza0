@@ -1,8 +1,6 @@
 ###  Olá! Me chamo Mateus de Souza Almeida 👋
 
-- 📚 Estou me Graduando em Engenharia de Computação 
-- 💻 Estudando sobre Desenvolvimento Web
-
+- 📚 Graduando em Engenharia de Computação 
 ##
 
 <div>
